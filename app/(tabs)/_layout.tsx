@@ -6,6 +6,7 @@ export default function RootLayout() {
 		<Tabs
 			screenOptions={{
 				tabBarActiveTintColor: '#DA1884',
+				tabBarInactiveTintColor: '#d887b4',
 				headerStyle: { backgroundColor: '#fad0e7' },
 				headerShadowVisible: false,
 				headerTintColor: '#DA1884',
